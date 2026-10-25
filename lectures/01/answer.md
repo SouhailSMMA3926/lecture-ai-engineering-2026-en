@@ -35,7 +35,7 @@ Output tokens: 232
 - Results:
 
 
--Basic 
+###Basic 
 
 
 --Run 1
@@ -73,7 +73,8 @@ Output tokens: 71
 The monolithic giant of the pre-trained neural network slumbered, infinitely wise yet stubbornly inflexible. Along tiptoed the tiny, weight-efficient sprite of LoRA, whispering a few fleeting parameter adjustments into its ear. Suddenly, the ancient titan awakened, effortlessly pirouetting into an entirely new dance of creation without forgetting a single step of its past.
 
 
--Implementation
+###Implementation
+
 To be able to ask follow-up questions, the google-genai SDK is used. The ask.py is modified and tested
 
 RESULT: The following answer is obtained upon testing: @SouhailSMMA3926 ➜ /workspaces/lecture-ai-engineering-2026-en (lec01) $ uv run python -m app.ask
@@ -105,7 +106,9 @@ How can I help you with your studies today, future engineer?
 
 This interaction proves the implementation was successful.
 
--Advanced
+###Advanced
+
+
 This involves measuring the latency response. The Python's time module) alongside token counts. It will then be tested for different results.
 The following responses were obtained for different questions:
 
@@ -145,6 +148,7 @@ Based on the structure of the AIE2026 (Artificial Intelligence Engineering 2026)
 Introduced by researchers at Microsoft in 2021, LoRA solves a major bottleneck in AI: how to adapt massive models to specific tasks without spending a fortune on computing power and memory.
 
 Here is a breakdown of how it works, why it matters, and where it is used.
+
 PLEASE NOTE THAT I AM NOT GOING TO PASTE THE WHOLE RESPONSE BECAUSE IT IS VERY LONG.
 
 - Observations and questions: 
